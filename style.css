@@ -161,3 +161,23 @@ img {
   .text .detail{
     padding: 17px;
   }
+
+ .logo-un {
+    margin-top: 80px;
+    margin-bottom: 40px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 30px;
+  text-align: center;
+}
+
+.logo-un div {
+  flex: 1;
+}
+
+.logo-un img {
+  width: min(100%, 40px);
+  height: auto;
+  margin-bottom: 15px;
+}
