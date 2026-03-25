@@ -16,3 +16,15 @@
   --gray-700: hsl(210, 10%, 33%);
   --gray-500: hsl(202, 10%, 63%);
 }
+
+/* =======================
+   GLOBAL STYLES
+======================= */
+body {
+  font-family: 'Bai Jamjuree', sans-serif;
+  font-size: 15px;
+  color: var(--gray-700);
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
