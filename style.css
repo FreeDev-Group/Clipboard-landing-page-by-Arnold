@@ -181,3 +181,16 @@ img {
   height: auto;
   margin-bottom: 15px;
 }
+
+  .icon {
+    display: flex;
+    justify-content: space-around;
+    padding: 60px;
+    align-items: center;
+  }
+  .icon img {
+  width: 80%;
+  max-width: 120px; /* ajuste la taille max */
+  height: auto;
+}
+}
