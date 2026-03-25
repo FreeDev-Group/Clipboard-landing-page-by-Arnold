@@ -204,5 +204,20 @@ img {
   margin: auto;
   margin-top: 20px;
 } 
+.text .detail{
+    padding-top: 17px;
+  }
+
+   .logo-un {
+    margin-top: 80px;
+    margin-bottom: 40px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 30px;
+  text-align: center;
+}
+
 
 }
