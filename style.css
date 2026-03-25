@@ -194,3 +194,15 @@ img {
   height: auto;
 }
 }
+
+@media screen and (max-width:766px) {
+   .image img {
+  display: block; 
+  width: 100%;
+  max-width: 600px;
+  height: auto;
+  margin: auto;
+  margin-top: 20px;
+} 
+
+}
