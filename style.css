@@ -52,3 +52,26 @@ button {
   cursor: pointer;
   margin: 10px;
 }
+
+/* iOS Button */
+button:first-child {
+  background-color: var(--green-500);
+  color: white;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* Mac Button */
+button:last-child {
+  background-color: var(--blue-100);
+  color: white;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+}
+
+/* =======================
+   LAYOUT
+======================= */
+.main {
+    background: url(images/bg-header-desktop.png) no-repeat;
+  padding: 20px;
+  text-align: center;
+}
