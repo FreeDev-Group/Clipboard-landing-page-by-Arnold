@@ -75,3 +75,16 @@ button:last-child {
   padding: 20px;
   text-align: center;
 }
+
+.hero {
+  margin: 40px 0;
+}
+.hero-buttons{
+    margin-top: 40px;
+}
+
+.features {
+  margin: 60px 0;
+  padding: 30px;
+  margin-top: 50px;
+}
