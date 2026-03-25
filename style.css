@@ -119,3 +119,15 @@ img {
   list-style-type: none;
   text-align: left;
 }
+.footer-content .footer-logo{
+  width: 5rem;
+  cursor: pointer;
+}
+.footer-social img{
+    width: 25%;
+    max-width: 100px;
+}
+.footer-social img:hover {
+    cursor: pointer;
+  filter: brightness(100%) saturate(10%) invert(57%) sepia(58%) saturate(500%) hue-rotate(120deg);
+}
