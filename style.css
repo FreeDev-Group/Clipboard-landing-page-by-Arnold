@@ -40,3 +40,15 @@ h1, h2, h3 {
 p {
   color: var(--gray-500);
 }
+
+/* =======================
+   BUTTONS
+======================= */
+button {
+  padding: 12px 30px;
+  border: none;
+  border-radius: 25px;
+  font-size: 16px;
+  cursor: pointer;
+  margin: 10px;
+}
