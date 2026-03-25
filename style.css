@@ -103,3 +103,19 @@ img {
   height: auto;
   margin-left: -25%;
 }
+
+/* =======================
+   FOOTER
+======================= */
+.footer {
+  background-color: #f5f5f5;
+  padding: 25px 100px 10px 100px;
+}
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+}
+.footer-content ul li{
+  list-style-type: none;
+  text-align: left;
+}
