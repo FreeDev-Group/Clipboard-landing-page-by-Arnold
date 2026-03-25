@@ -248,5 +248,19 @@ img {
     margin-top: 10px;
   text-align: center;
 }
+.footer-content .footer-logo{
+  width: 3rem;
+  cursor: pointer;
+}
+.footer-social img{
+    width: 25%;
+    max-width: 500px;
+    padding: 5px;
+}
+.logo{
+    margin: auto;
+    width: 5rem;
+  cursor: pointer;
+}
 
 }
